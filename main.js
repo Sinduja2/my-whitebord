@@ -11,10 +11,10 @@ var last_position_of_x, last_position_of_y;
     
     function my_mousedown(e)
     {
-        //Addictonal Activity start
+     
         color = document.getElementById("color").value;
         width_of_line = document.getElementById("width_of_line").value;
-        //Addictonal Activity ends
+        
 
         mouseEvent = "mouseDown";
     }
